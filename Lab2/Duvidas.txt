@@ -1,0 +1,4 @@
+31/5 Lab Session
+ - Speech Enhancement
+ - GMM não está a ser utilizado no vad pois não?
+ - Save Models
