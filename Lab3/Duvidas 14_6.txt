@@ -1,0 +1,4 @@
+Contexto = transcription?
+Como utilizar o parametro de WER para accuracy?
+Como verificar que estamos a fazer bem se não damos contexto. Os gajos não conseguemm responder bema  nenhuma pergunta
+Os modelos que estamos a utilizar chegam? GPT-2/BERT/DISTILBERT/ALBERTA/XLNET
